@@ -1,4 +1,6 @@
-# Sumo Robot Project
+# Sumo Robot based on Arduino Uno 
+
+## Team members: Toktokozhoev Urmat, Akylbekova Rozalina
 
 This project is dedicated to creating a Sumo Robot based on Arduino Uno. The robot can rotate in place, detect a target using an ultrasonic sensor, approach it, and lift it with a servo motor. The robot is designed for competitions and educational purposes.
 
@@ -72,6 +74,12 @@ The Arduino code includes:
 - **Sensor Reading**: Continuously monitors the ultrasonic sensor for objects.
 - **Target Detection**: Processes sensor data to identify objects.
 - **Lifting Mechanism**: Controls the servo motor to lift objects.
+
+https://github.com/user-attachments/assets/86cc273c-2e37-4399-9878-4458638c6b32
+
+https://github.com/user-attachments/assets/71bc8797-6574-4688-85c0-177bbe9350d9
+
+https://github.com/user-attachments/assets/d2d400e4-88fd-4a65-92ab-2504d60bad63
 
 ---
 
