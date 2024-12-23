@@ -24,6 +24,8 @@ This project is dedicated to creating a Sumo Robot based on Arduino Uno. The rob
    - 2 rechargeable batteries
 6. **Structural Components**:
    - 3D-printed parts for the robot chassis and lifting mechanism
+     
+![5424649132456404260](https://github.com/user-attachments/assets/cbde526d-9e1a-4702-aded-cc28635f2ecf)
 
 ---
 
